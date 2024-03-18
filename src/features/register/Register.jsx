@@ -104,7 +104,7 @@ export default function Register() {
                                     id='tanggal_lahir'
                                     className='w-full py-1.5 px-2 border-[2px] border-[#BCC6F6] outline-[#8692C8] rounded-md bg-[#d9d9d9]' placeholder='Tanggal Lahir' required
                                 />
-                                {/* <DatePicker className='w-full py-1.5 px-2 border-[2px] border-[#BCC6F6] outline-[#8692C8] rounded-md bg-[#d9d9d9]' placeholderText='Tanggal Lahir' selected={startDate} onChange={(date) => setStartDate(date)} /> */}
+                                {/* <DatePicker className='w-full py-1.5 px-2 border-[2px] border-[#BCC6F6] outline-[#8692C8] rounded-md bg-[#d9d9d9]' placeholderText='Tanggal Lahir' selected={startDate} onChange={(date) => setStartDate(date)} required /> */}
                             </div>
                             
                             <div className="relative z-0 w-full mb-5 group">
